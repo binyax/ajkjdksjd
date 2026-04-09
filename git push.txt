@@ -1,0 +1,7 @@
+git status
+
+git add .
+
+git commit -m "Se agrega el método PUT para actualizar incidencias existentes"
+
+git push origin master
